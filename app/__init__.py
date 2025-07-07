@@ -1,0 +1,1 @@
+"""Package marker – allows `python -m app.<module>` imports."""
